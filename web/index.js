@@ -55,7 +55,7 @@ const BILLING_SETTINGS = {
 
 // This sets up the mandatory GDPR webhooks. You’ll need to fill in the endpoint
 // in the “GDPR mandatory webhooks” section in the “App setup” tab, and customize
-// the code when you store customer  data.tryrtyrtyrtyrty
+// the code when you store customer  data.tryrtysdfsdfrtyrtyrty
 //
 
 
