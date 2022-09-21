@@ -21,7 +21,7 @@ config/tunnel.pid
 #dist/
 
 # extensions build output
-#extensions/*/build
+extensions/*/build
 
 # Node library SQLite database
 web/database.sqlite
