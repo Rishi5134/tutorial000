@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "web/index.js",
   "license": "UNLICENSED",
+  "engines": {
+    "node": "16.x"
+  },
   "scripts": {
     "shopify": "shopify",
     "build": "shopify app build",
