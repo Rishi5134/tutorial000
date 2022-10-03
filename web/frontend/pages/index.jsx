@@ -19,7 +19,6 @@ import DiscountOrders from "../components/Discount/DiscountOrders";
 export default function HomePage() {
   return (
     <Page narrowWidth>
-      <TitleBar title="App name" primaryAction={null} />
       <Layout>
         <Layout.Section>
           <Card sectioned>
