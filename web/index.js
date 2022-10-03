@@ -15,7 +15,7 @@ import { AppInstallations } from "./app_installations.js";
 // import WidgitModel from "./mongoDB/Models/widgitModel.js";
 // import cors from "cors";
 
-const USE_ONLINE_TOKENS = false;
+const USE_ONLINE_TOKENS = true;
 const TOP_LEVEL_OAUTH_COOKIE = "shopify_top_level_oauth";
 
 console.log("SCOPES:", process.env.SCOPES);
