@@ -1,0 +1,10 @@
+.noOrders > h1{
+    font-size: 1.5rem;
+}
+.noOrders{
+    min-height: 30vmax;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

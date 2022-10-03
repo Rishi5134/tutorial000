@@ -1,0 +1,10 @@
+.loading{
+    min-height: 30vmax;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.loading > h1{
+    font-size: 1.4rem;
+}

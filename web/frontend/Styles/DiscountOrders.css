@@ -1,0 +1,14 @@
+.ordersPagination{
+    display: flex;
+    justify-content: center;
+}
+.discountOrders{
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid green;
+}
+.discountOrders > h1{
+    font-size: 1.5rem;
+}
