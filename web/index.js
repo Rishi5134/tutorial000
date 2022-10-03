@@ -24,9 +24,9 @@ const isTest = process.env.NODE_ENV === "test" || !!process.env.VITE_TEST_BUILD;
 
 // TODO: There should be provided by env vars
 const DEV_INDEX_PATH = `${process.cwd()
-  }/frontend/`;
+  }/web/frontend/`;
 const PROD_INDEX_PATH = `${process.cwd()
-  }/frontend/dist/`;
+  }/web/frontend/dist/`;
 
 const DB_PATH = `${process.cwd()
   }/database.sqlite`;
